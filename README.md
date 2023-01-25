@@ -1,7 +1,6 @@
 # todo_task
 
-A new Flutter project.
-
+Template app frontend created with Flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
